@@ -1,3 +1,6 @@
+
+Opentracing is a monitoring tool. Jaeger is an implementation
+
 # Springboot-Opentracing-Jaeger
 1. Install Docker
 2. docker run --rm -it --network=host jaegertracing/all-in-one
